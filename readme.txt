@@ -4,4 +4,8 @@ Git has a mutable indes called stage
 Git tracks changes of files.
 Test GitHub
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
